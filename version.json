@@ -1,7 +1,7 @@
 {
-    "version":  39,
+    "version":  40,
     "build_date":  "2026-10-06",
-    "commit":  "e7aa692",
+    "commit":  "feedtest",
     "min_plugin_version":  30,
-    "notes":  "更新检测改为唯一路径探测(v+N.json)，绕开CDN缓存导致的发布后读不到新版本"
+    "notes":  "feed 新鲜度测试"
 }
