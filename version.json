@@ -1,7 +1,7 @@
 {
-    "version":  38,
+    "version":  99,
     "build_date":  "2026-10-06",
-    "commit":  "76ae3ab",
+    "commit":  "test",
     "min_plugin_version":  30,
-    "notes":  "现货排版提速15.8倍(StaticID缓存)+联网检测更新+DeepSeek余额+术语库多机同步+一键发布脚本"
+    "notes":  "延迟窗口测试"
 }
