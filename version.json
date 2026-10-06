@@ -1,7 +1,7 @@
 {
-  "version": 34,
-  "build_date": "2026-10-05",
-  "commit": "c1625e6",
-  "min_plugin_version": 30,
-  "notes": "翻译改为 DeepSeek；术语库多机同步；现货排版模板缓存"
+    "version":  37,
+    "build_date":  "2026-10-06",
+    "commit":  "76ae3ab",
+    "min_plugin_version":  30,
+    "notes":  "现货排版提速15.8倍(StaticID缓存)+联网检测更新+DeepSeek余额+术语库多机同步+一键发布脚本"
 }
