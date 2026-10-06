@@ -1,0 +1,1 @@
+# MyCDRDockerAddon-version
