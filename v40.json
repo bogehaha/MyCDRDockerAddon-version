@@ -1,7 +1,0 @@
-{
-    "version":  40,
-    "build_date":  "2026-10-06",
-    "commit":  "probe",
-    "min_plugin_version":  30,
-    "notes":  "新路径探测"
-}
