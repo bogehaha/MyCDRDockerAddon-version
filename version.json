@@ -1,7 +1,7 @@
 {
-    "version":  41,
+    "version":  42,
     "build_date":  "2026-10-07",
-    "commit":  "6923f15",
+    "commit":  "7ff5855",
     "min_plugin_version":  30,
-    "notes":  "定制排版：英文大小写跟随模板占位符（english小写/English首字母大写/ENGLISH全大写）"
+    "notes":  "术语库同步提醒：本机新增满100条术语时插件启动提醒，可一键执行同步"
 }
