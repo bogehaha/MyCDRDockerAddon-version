@@ -1,7 +1,7 @@
 {
-    "version":  40,
+    "version":  41,
     "build_date":  "2026-10-07",
-    "commit":  "c5f5a4d",
+    "commit":  "6923f15",
     "min_plugin_version":  30,
-    "notes":  "查找形状：参考对象改为属性快照，对象被删除后仍能按属性查找"
+    "notes":  "定制排版：英文大小写跟随模板占位符（english小写/English首字母大写/ENGLISH全大写）"
 }
