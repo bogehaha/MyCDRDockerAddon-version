@@ -1,7 +1,7 @@
 {
-    "version":  39,
-    "build_date":  "2026-10-06",
-    "commit":  "8a5bd6f",
+    "version":  40,
+    "build_date":  "2026-10-07",
+    "commit":  "c5f5a4d",
     "min_plugin_version":  30,
-    "notes":  "现货排版提速15.8倍(StaticID缓存)+联网检测更新+DeepSeek余额+术语库多机同步+一键发布脚本"
+    "notes":  "查找形状：参考对象改为属性快照，对象被删除后仍能按属性查找"
 }
