@@ -1,7 +1,7 @@
 {
-    "version":  45,
-    "build_date":  "2026-10-08",
-    "commit":  "54bcceb",
+    "version":  46,
+    "build_date":  "2026-10-09",
+    "commit":  "ce81cbf",
     "min_plugin_version":  30,
-    "notes":  "批量导出只保留在现货批量窗口；辅助功能页加滚动条（原来内容超出被截断看不到）"
+    "notes":  "重要修复：_dist 改为自包含（含 Newtonsoft.Json/WebView2），新电脑不再出现英文静默退回中文"
 }
