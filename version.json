@@ -1,7 +1,7 @@
 {
-    "version":  47,
+    "version":  48,
     "build_date":  "2026-10-15",
-    "commit":  "34e4bb5",
+    "commit":  "75eaedb",
     "min_plugin_version":  30,
-    "notes":  "修复翻译失败导致CDR界面冻结(EndDraw加固)；新增离线兜底词典(556条)；修复删除参考对象后查找报错"
+    "notes":  "修复翻译失败后第二次点排版界面冻结：弹窗改为收尾后弹出（核心根因）；EndDraw 加固 + ForceRestoreUI 兜底"
 }
