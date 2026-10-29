@@ -1,7 +1,7 @@
 {
-    "version":  50,
-    "build_date":  "2026-10-16",
-    "commit":  "03ef487",
+    "version":  51,
+    "build_date":  "2026-10-29",
+    "commit":  "65c4a7a",
     "min_plugin_version":  30,
-    "notes":  "把「检查更新」按钮从工具栏移到 定制排版→辅助功能 页面（和翻译KEY放一起）；新增 UpdateLauncher 共享更新逻辑"
+    "notes":  "AI生图新增「无限之心」便宜通道（1-4积分/张，参考图10MB×16张）；修复NuGet还原缓存导致的构建失败"
 }
