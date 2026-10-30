@@ -1,7 +1,7 @@
 {
-    "version":  53,
+    "version":  54,
     "build_date":  "2026-10-30",
-    "commit":  "6f03721",
+    "commit":  "11aaee5",
     "min_plugin_version":  30,
-    "notes":  "生图：「优化」默认不勾选，前缀框靠左；提示词前缀改为可编辑并自动保存，下次打开保留"
+    "notes":  "生图：模型下方显示Tripo剩余积分与折合人民币，生成后自动刷新；修复TLS1.2未启用导致请求失败"
 }
