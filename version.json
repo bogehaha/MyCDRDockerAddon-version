@@ -1,7 +1,7 @@
 {
-    "version":  51,
-    "build_date":  "2026-10-29",
-    "commit":  "db0d742",
+    "version":  52,
+    "build_date":  "2026-10-30",
+    "commit":  "59584ad",
     "min_plugin_version":  30,
-    "notes":  "AI生图新增「无限之心」便宜通道（1-4积分/张，参考图10MB×16张）；修复NuGet还原缓存导致的构建失败"
+    "notes":  "AI生图：生成按钮显示本次积分与人民币；支持2个任务并发生成"
 }
