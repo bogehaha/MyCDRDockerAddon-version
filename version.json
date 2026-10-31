@@ -1,7 +1,7 @@
 {
-    "version":  54,
-    "build_date":  "2026-10-30",
-    "commit":  "11aaee5",
+    "version":  55,
+    "build_date":  "2026-10-31",
+    "commit":  "de0a960",
     "min_plugin_version":  30,
-    "notes":  "生图：模型下方显示Tripo剩余积分与折合人民币，生成后自动刷新；修复TLS1.2未启用导致请求失败"
+    "notes":  "术语库改走OSS同步（不再依赖git）；手动检查更新也走OSS清单"
 }
