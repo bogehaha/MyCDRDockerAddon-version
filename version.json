@@ -1,7 +1,7 @@
 {
-    "version":  55,
-    "build_date":  "2026-10-31",
-    "commit":  "de0a960",
+    "version":  58,
+    "build_date":  "2026-11-11",
+    "commit":  "637aaf5",
     "min_plugin_version":  30,
-    "notes":  "术语库改走OSS同步（不再依赖git）；手动检查更新也走OSS清单"
+    "notes":  "v58: 排版预览图自动生成 + 款式/尺寸自然排序"
 }
