@@ -1,7 +1,7 @@
 {
-    "version":  58,
-    "build_date":  "2026-11-11",
-    "commit":  "637aaf5",
+    "version":  59,
+    "build_date":  "2026-11-12",
+    "commit":  "4e82917",
     "min_plugin_version":  30,
-    "notes":  "v58: 排版预览图自动生成 + 款式/尺寸自然排序"
+    "notes":  "v59: 修复 v58 版本号没编进 DLL 导致的更新死循环；修复排版失败一次后换款式仍报未找到模板"
 }
